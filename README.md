@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming, tennis and gaming
 - 🌱 I’m currently learning the framework Laravel
 - 📫 How to reach me: no
-- 😄 Pronouns: o/crl
 - ⚡ Fun fact: PHP means Programming Abomination Plus (not really)
 
 <!---
