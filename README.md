@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HugoFranco24
 - 👀 I’m interested in programming, tennis and gaming
-- 🌱 I’m currently learning the framework Laravel
-- 📫 How to reach me: no
+- 🌱 I’m currently learning unity
+- 📫 How to reach me: just email me
 - ⚡ Fun fact: PHP means Programming Abomination Plus (not really)
 
 <!---
